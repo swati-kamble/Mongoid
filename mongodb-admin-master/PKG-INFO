@@ -1,0 +1,23 @@
+Metadata-Version: 1.0
+Name: MongoDB-Admin
+Version: 0.1
+Summary: An easy way to create a MongoDB cluster
+Home-page: https://github.com/noQ/mongodb-admin
+Author: Adrian Costia
+Author-email: sysadm.mongodb@gmail.com
+License: GPL
+Download-URL: https://github.com/noQ/mongodb-admin/zipball/master
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Production/Stable
+Classifier: Environment :: noSQL 
+Classifier: Framework :: MongoDB-Admin
+Classifier: Intended Audience :: Developers
+Classifier: License :: GPL Licence
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Database :: MongoDB
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
